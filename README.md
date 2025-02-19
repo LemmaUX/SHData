@@ -80,7 +80,7 @@ La API fue desplegada utilizando Render para garantizar su disponibilidad en la 
 
 Aquí está el video donde explico el funcionamiento del proyecto, incluyendo una demostración de las consultas requeridas en la API y una breve explicación del modelo utilizado para el sistema de recomendación. También muestro el proceso de ETL, EDA y el desarrollo de la API.
 
-👉 [Ver Video](#)
+👉 [https://www.loom.com/share/c355c0d257aa4491805227d6cb865359](#)
 
 # 📋 Criterios de Evaluación
 
