@@ -109,9 +109,6 @@ El proyecto será evaluado según los siguientes criterios:
 
 Quiero agradecer a los instructores y mentores de Henry por su apoyo durante el desarrollo de este proyecto. También agradezco a la comunidad de GitHub y Stack Overflow por sus valiosos recursos y ejemplos.
 
-# 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 # 📧 Contacto
 
